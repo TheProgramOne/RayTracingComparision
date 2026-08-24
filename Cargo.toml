@@ -1,0 +1,17 @@
+[package]
+name = "raytracer"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "raytracer"
+path = "src/main.rs"
+
+[profile.release]
+opt-level = 3
+lto = true
+
+[dependencies]
+# Deliberately zero dependencies -- not even for random numbers (see
+# Rng in main.rs). This keeps the four-language comparison fair: no
+# language gets a hand-optimized external crate/library doing the work.
