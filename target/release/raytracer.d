@@ -1,1 +1,0 @@
-/Users/bharat/Content\ Creation/Content\ creation/programing\ stock/code\ screen\ recording/RayTracing_Demo/target/release/raytracer: /Users/bharat/Content\ Creation/Content\ creation/programing\ stock/code\ screen\ recording/RayTracing_Demo/src/main.rs /Users/bharat/Content\ Creation/Content\ creation/programing\ stock/code\ screen\ recording/RayTracing_Demo/src/scene_data.rs
